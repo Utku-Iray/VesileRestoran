@@ -1,0 +1,2736 @@
+Uri: https://fonts.googleapis.com/css2?family=Lato:ital%2Cwght%400%2C300%3B0%2C400%3B0%2C500%3B0%2C600%3B0%2C700%3B1%2C300%3B1%2C400%3B1%2C500%3B1%2C600%3B1%2C700&display=swap&ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Playfair Display:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&display=swap
+File Name: C:\Downloaded Web Sites\lotipoints.com\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:400|Alex+Brush:400&subset=latin-ext&ver=1.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Raleway:900%2C400|Alex+Brush:400|Open+Sans:400
+File Name: C:\Downloaded Web Sites\lotipoints.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/alexbrush/v22/SZc83FzrJKuqFbwMKk6EhUvz6A.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\alexbrush\v22\SZc83FzrJKuqFbwMKk6EhUvz6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/alexbrush/v22/SZc83FzrJKuqFbwMKk6EhUXz6A.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\alexbrush\v22\SZc83FzrJKuqFbwMKk6EhUXz6A.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u-w4BMUTPHjxsIPy-v.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u-w4BMUTPHjxsIPy-v.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHh30wWw.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u8w4BMUTPHh30wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u8w4BMUTPHjxswWw.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u8w4BMUTPHjxswWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh50Xew8.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u9w4BMUTPHh50Xew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh6UVew8.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u9w4BMUTPHh6UVew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u9w4BMUTPHh7USew8.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u9w4BMUTPHh7USew8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6uyw4BMUTPHvxk.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6uyw4BMUTPHvxk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI3wiPHA.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u_w4BMUTPHjxsI3wiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI5wqPHA.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u_w4BMUTPHjxsI5wqPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v24/S6u_w4BMUTPHjxsI9w2PHA.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\lato\v24\S6u_w4BMUTPHjxsI9w2PHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v35/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\opensans\v35\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_gGUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_iiUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_k-UbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_naUbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_pqTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v36/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\playfairdisplay\v36\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfsukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCGPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://gourmand.qodeinteractive.com/wp-content/uploads/2018/01/reservation-parallax-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2018\01\reservation-parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gourmand.qodeinteractive.com/wp-content/uploads/2018/02/about-parallax-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2018\02\about-parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://gourmand.qodeinteractive.com/wp-content/uploads/2018/02/contact-parallax-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2018\02\contact-parallax-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/
+File Name: C:\Downloaded Web Sites\lotipoints.com\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/comments/feed/
+File Name: C:\Downloaded Web Sites\lotipoints.com\comments\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lotipoints.com/contact-us/
+File Name: C:\Downloaded Web Sites\lotipoints.com\contact-us\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/feed/
+File Name: C:\Downloaded Web Sites\lotipoints.com\feed\index.htm
+Content Type: application/rss+xml
+
+Uri: https://lotipoints.com/loti-restaurant/
+File Name: C:\Downloaded Web Sites\lotipoints.com\loti-restaurant\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/loti-roof-lounge/
+File Name: C:\Downloaded Web Sites\lotipoints.com\loti-roof-lounge\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/lotiz-lounge-hookah/
+File Name: C:\Downloaded Web Sites\lotipoints.com\lotiz-lounge-hookah\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/our-brands/
+File Name: C:\Downloaded Web Sites\lotipoints.com\our-brands\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/reservation/
+File Name: C:\Downloaded Web Sites\lotipoints.com\reservation\index.htm
+Content Type: text/html
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/assets/img/default_pattern.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\assets\img\default_pattern.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/countdown/assets/js/plugins/jquery.countdown.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\countdown\assets\js\plugins\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/counter/assets/js/plugins/absoluteCounter.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\counter\assets\js\plugins\absoluteCounter.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/counter/assets/js/plugins/counter.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\counter\assets\js\plugins\counter.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/custom-font/assets/js/plugins/typed.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\custom-font\assets\js\plugins\typed.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/full-screen-sections/assets/js/plugins/jquery.fullPage.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\full-screen-sections\assets\js\plugins\jquery.fullPage.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/pie-chart/assets/js/plugins/easypiechart.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\pie-chart\assets\js\plugins\easypiechart.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/uncovering-sections/assets/js/plugins/curtain.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\uncovering-sections\assets\js\plugins\curtain.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-core/shortcodes/vertical-split-slider/assets/js/plugins/jquery.multiscroll.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-core\shortcodes\vertical-split-slider\assets\js\plugins\jquery.multiscroll.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-restaurant/assets/css/restaurant-responsive.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-restaurant\assets\css\restaurant-responsive.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-restaurant/assets/css/restaurant.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-restaurant\assets\css\restaurant.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/elated-restaurant/assets/js/restaurant.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\elated-restaurant\assets\js\restaurant.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/gridable/public/css/gridable-style.css?ver=1.2.9
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\gridable\public\css\gridable-style.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/gridable/public/js/gridable-scripts.js?ver=1.2.9
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\gridable\public\js\gridable-scripts.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\css\js_composer.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.eot?-9hbgac
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.svg?-9hbgac
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.ttf?-9hbgac
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_grid/vc_grid_v1.woff?-9hbgac
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_grid\vc_grid_v1.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.eot?f6ud62
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.svg?f6ud62
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.ttf?f6ud62
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/fonts/vc_icons_v2/fonts/vcpb-plugin-icons.woff?f6ud62
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\fonts\vc_icons_v2\fonts\vcpb-plugin-icons.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/flickr.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\flickr.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/address-book.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\address-book.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/alarm-clock.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\alarm-clock.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/anchor.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\anchor.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/application-image.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\application-image.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/arrow.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\arrow.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/asterisk.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\asterisk.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/auction-hammer.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\auction-hammer.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/balloon-buzz.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\balloon-buzz.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/balloon-facebook.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\balloon-facebook.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/balloon-twitter.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\balloon-twitter.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/balloon.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\balloon.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/battery-full.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\battery-full.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/binocular.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\binocular.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-excel.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-excel.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-image.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-image.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-music.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-music.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-office.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-office.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-pdf.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-pdf.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-powerpoint.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-powerpoint.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/blue-document-word.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\blue-document-word.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/bookmark.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\bookmark.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/camcorder.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\camcorder.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/camera.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\camera.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/chart-pie.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\chart-pie.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/chart.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\chart.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/clock.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\clock.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/control.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\control.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/fire.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\fire.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/heart.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\heart.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/plus-shield.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\plus-shield.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/icons/video.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\icons\video.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/spinner.gif
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\spinner.gif
+Content Type: image/gif
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/toggle_close.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\toggle_close.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/images/toggle_open.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\images\toggle_open.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/js/dist/js_composer_front.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\js\dist\js_composer_front.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/animate-css/animate.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\animate-css\animate.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/isotope/dist/isotope.pkgd.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\isotope\dist\isotope.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/jquery.nivo.slider.pack.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\jquery.nivo.slider.pack.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/nivo-slider.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\nivo-slider.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/themes/default/arrows.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\themes\default\arrows.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/themes/default/bullets.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\themes\default\bullets.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/themes/default/default.min.css?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\themes\default\default.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/bower/nivoslider/themes/default/loading.gif
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\bower\nivoslider\themes\default\loading.gif
+Content Type: image/gif
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/prettyphoto/js/jquery.prettyPhoto.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\prettyphoto\js\jquery.prettyPhoto.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/lib/vc_waypoints/vc-waypoints.min.js?ver=6.0.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\lib\vc_waypoints\vc-waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/alert.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\alert.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/blur.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\blur.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/exclamation.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\exclamation.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/info.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\info.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/remove.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\remove.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/js_composer/assets/vc/tick.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\js_composer\assets\vc\tick.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/pixlikes/css/public.css?ver=1.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\pixlikes\css\public.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/pixlikes/js/public.js?ver=1.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\pixlikes\js\public.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/cache/quform.css?ver=1691862965
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\cache\quform.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/cache/quform.js?ver=1691862965
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\cache\quform.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/QIconSet.eot?32nq9y
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\QIconSet.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/QIconSet.svg?32nq9y
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\QIconSet.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/QIconSet.ttf?32nq9y
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\QIconSet.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/plugins/quform/fonts/QIconSet.woff?32nq9y
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\quform\fonts\QIconSet.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/coloredbg.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\coloredbg.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/gridtile.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\gridtile.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/gridtile_3x3_white.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\gridtile_3x3_white.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/gridtile_white.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\gridtile_white.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/assets/loader.gif
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\assets\loader.gif
+Content Type: image/gif
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/css/closedhand.cur
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\css\closedhand.cur
+Content Type: application/octet-stream
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/css/openhand.cur
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\css\openhand.cur
+Content Type: application/octet-stream
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/css/settings.css?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\css\settings.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.eot?5510888
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.svg?5510888
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.ttf?5510888
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/fonts/revicons/revicons.woff?5510888
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\fonts\revicons\revicons.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.revolution.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js?ver=5.4.8.3
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\revslider\public\assets\js\jquery.themepunch.tools.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/plugins/wpt-whatsapp/assets/css/auto-generated-wptwa.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\wpt-whatsapp\assets\css\auto-generated-wptwa.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/wpt-whatsapp/assets/css/public.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\wpt-whatsapp\assets\css\public.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/plugins/wpt-whatsapp/assets/images/logo-green-small.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\wpt-whatsapp\assets\images\logo-green-small.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/wpt-whatsapp/assets/images/logo-group.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\wpt-whatsapp\assets\images\logo-group.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/plugins/wpt-whatsapp/assets/js/public.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\plugins\wpt-whatsapp\assets\js\public.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/dripicons.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\dripicons.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/fonts/dripicons-v2.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\fonts\dripicons-v2.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/fonts/dripicons-v2.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\fonts\dripicons-v2-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/fonts/dripicons-v2.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\fonts\dripicons-v2.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/fonts/dripicons-v2.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\fonts\dripicons-v2.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/dripicons/fonts/dripicons-v2.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\dripicons\fonts\dripicons-v2.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/fonts/ElegantIcons.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\fonts\ElegantIcons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/fonts/ElegantIcons.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\fonts\ElegantIcons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/fonts/ElegantIcons.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\fonts\ElegantIcons.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/fonts/ElegantIcons.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\fonts\ElegantIcons.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/fonts/ElegantIcons.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\fonts\ElegantIcons.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/elegant-icons/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\elegant-icons\style.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/css/font-awesome.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/ion-icons/css/ionicons.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\ion-icons\css\ionicons.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/ion-icons/fonts/ionicons.eot?v=2.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\ion-icons\fonts\ionicons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/ion-icons/fonts/ionicons.svg?v=2.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\ion-icons\fonts\ionicons.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/ion-icons/fonts/ionicons.ttf?v=2.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\ion-icons\fonts\ionicons.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/ion-icons/fonts/ionicons.woff?v=2.0.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\ion-icons\fonts\ionicons.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\arrows\fonts\linea-arrows-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/arrows/fonts/linea-arrows-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\arrows\fonts\linea-arrows-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/arrows/fonts/linea-arrows-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\arrows\fonts\linea-arrows-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/arrows/fonts/linea-arrows-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\arrows\fonts\linea-arrows-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/arrows/fonts/linea-arrows-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\arrows\fonts\linea-arrows-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic-elaboration/fonts/linea-basic-elaboration-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic-elaboration\fonts\linea-basic-elaboration-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic/fonts/linea-basic-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic\fonts\linea-basic-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic/fonts/linea-basic-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic\fonts\linea-basic-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic/fonts/linea-basic-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic\fonts\linea-basic-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic/fonts/linea-basic-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic\fonts\linea-basic-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/basic/fonts/linea-basic-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\basic\fonts\linea-basic-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\ecommerce\fonts\linea-ecommerce-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/ecommerce/fonts/linea-ecommerce-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\ecommerce\fonts\linea-ecommerce-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/music/fonts/linea-music-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\music\fonts\linea-music-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/music/fonts/linea-music-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\music\fonts\linea-music-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/music/fonts/linea-music-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\music\fonts\linea-music-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/music/fonts/linea-music-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\music\fonts\linea-music-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/music/fonts/linea-music-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\music\fonts\linea-music-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/software/fonts/linea-software-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\software\fonts\linea-software-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/software/fonts/linea-software-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\software\fonts\linea-software-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/software/fonts/linea-software-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\software\fonts\linea-software-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/software/fonts/linea-software-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\software\fonts\linea-software-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/software/fonts/linea-software-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\software\fonts\linea-software-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/style.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\style.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/weather/fonts/linea-weather-10.eot
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\weather\fonts\linea-weather-10.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/weather/fonts/linea-weather-10.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\weather\fonts\linea-weather-10-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/weather/fonts/linea-weather-10.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\weather\fonts\linea-weather-10.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/weather/fonts/linea-weather-10.ttf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\weather\fonts\linea-weather-10.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linea-icons/weather/fonts/linea-weather-10.woff
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linea-icons\weather\fonts\linea-weather-10.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.eot?w118d
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.svg?w118d
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.ttf?w118d
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.woff2?w118d
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free.woff2
+Content Type: font/woff2
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/fonts/Linearicons-Free.woff?w118d
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\fonts\Linearicons-Free.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/linear-icons/style.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\linear-icons\style.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/modules-responsive.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\modules-responsive.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/modules.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\modules.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.eot?-i3a2kk
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.svg?-i3a2kk
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.ttf?-i3a2kk
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons.ttf
+Content Type: font/ttf
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff2?-i3a2kk
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons.woff2
+Content Type: font/woff2
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/fonts/Simple-Line-Icons.woff?-i3a2kk
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\fonts\Simple-Line-Icons.woff
+Content Type: font/woff
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/simple-line-icons/simple-line-icons.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\simple-line-icons\simple-line-icons.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/style_dynamic.css?ver=1643986148
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\style_dynamic.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/css/style_dynamic_responsive.css?ver=1643986148
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\css\style_dynamic_responsive.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/img/default_pattern.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\img\default_pattern.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/img/preload_pattern.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\img\preload_pattern.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/fluidvids.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\fluidvids.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.appear.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.appear.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.easing.1.3.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.easing.1.3.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.hoverIntent.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.hoverIntent.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.plugin.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.plugin.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.waitforimages.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.waitforimages.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/jquery.waypoints.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\jquery.waypoints.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/modernizr.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/owl.carousel.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/packery-mode.pkgd.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\packery-mode.pkgd.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/parallax.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\parallax.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/perfect-scrollbar.jquery.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\perfect-scrollbar.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/assets/js/modules/plugins/ScrollToPlugin.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\assets\js\modules\plugins\ScrollToPlugin.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/framework/modules/blog/assets/img/audio/mute.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\framework\modules\blog\assets\img\audio\mute.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/framework/modules/blog/assets/img/audio/pause.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\framework\modules\blog\assets\img\audio\pause.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/framework/modules/blog/assets/img/audio/play.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\framework\modules\blog\assets\img\audio\play.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/framework/modules/blog/assets/img/audio/sound.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\framework\modules\blog\assets\img\audio\sound.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/framework/modules/blog/assets/img/audio/stop.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\framework\modules\blog\assets\img\audio\stop.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/themes/gourmand/style.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\themes\gourmand\style.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/10/h1-slide-1-background22.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\10\h1-slide-1-background22.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/10/h1-slide-1-background232-copy.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\10\h1-slide-1-background232-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/10L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\10L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/10L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\10L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/10L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\10L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/10L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\10L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/11L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\11L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/11L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\11L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/11L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\11L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/11L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\11L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/12L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\12L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/12L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\12L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/12L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\12L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/12L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\12L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/13L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\13L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/13L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\13L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/13L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\13L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/13L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\13L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/14L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\14L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/14L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\14L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/14L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\14L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/14L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\14L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/15L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\15L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/15L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\15L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/15L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\15L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/15L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\15L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/16L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\16L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/16L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\16L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/16L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\16L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/16L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\16L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/17L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\17L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/17L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\17L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/17L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\17L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/17L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\17L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/18L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\18L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/18L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\18L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/18L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\18L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/18L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\18L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/19L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\19L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/19L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\19L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/19L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\19L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/19L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\19L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/1L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\1L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/1L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\1L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/1L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\1L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/1L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\1L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/20L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\20L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/20L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\20L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/20L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\20L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/20L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\20L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/21L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\21L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/21L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\21L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/21L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\21L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/21L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\21L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/22L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\22L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/22L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\22L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/22L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\22L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/22L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\22L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/23L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\23L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/23L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\23L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/23L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\23L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/23L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\23L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/24L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\24L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/24L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\24L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/24L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\24L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/24L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\24L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/2L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\2L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/2L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\2L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/2L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\2L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/2L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\2L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/3L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\3L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/3L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\3L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/3L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\3L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/3L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\3L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/4L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\4L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/4L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\4L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/4L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\4L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/4L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\4L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/5L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\5L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/5L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\5L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/5L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\5L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/5L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\5L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/6L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\6L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/6L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\6L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/6L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\6L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/6L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\6L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7a-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7a-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7a-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7a-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7a-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7a-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7a.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7a.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/7L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\7L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/8L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\8L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/8L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\8L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/8L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\8L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/8L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\8L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/9L-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\9L-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/9L-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\9L-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/9L-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\9L-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/9L.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\9L.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03947-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03947-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03947-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03947-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03947.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03947.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03973-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03973-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03973-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03973-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03973.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03973.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03981-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03981-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03981-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03981-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03981.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03981.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03983-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03983-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03983-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03983-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03983.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03983.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03989-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03989-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03989-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03989-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC03989.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC03989.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04081-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04081-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04081-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04081-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04081.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04081.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04139-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04139-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04139-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04139-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/DSC04139.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\DSC04139.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/h1-img-1-copy-300x211.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\h1-img-1-copy-300x211.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/h1-img-1-copy.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\h1-img-1-copy.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2258-300x219.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2258-300x219.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2258-768x562.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2258-768x562.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2258.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2258.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2314-300x225.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2314-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2314-768x576.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2314-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2314.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2314.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2316-300x225.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2316-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2316-768x576.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2316-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2316.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2316.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2322-300x225.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2322-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2322-768x576.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2322-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2322.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2322.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2331-300x225.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2331-300x225.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2331-768x576.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2331-768x576.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/IMG_2331.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\IMG_2331.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/loti-cafe-header-banner.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\loti-cafe-header-banner.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/loti1-1-copy-300x183.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\loti1-1-copy-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/loti1-1-copy-768x468.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\loti1-1-copy-768x468.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/loti1-1-copy.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\loti1-1-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-3-300x183.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-3-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-3-768x468.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-3-768x468.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-3.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-3.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-header-copy.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-header-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-logo.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-logo.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/map2-300x120.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\map2-300x120.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/map2-768x306.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\map2-768x306.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/map2.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\map2.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/h3-slide-1-background232-copy-copy.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\h3-slide-1-background232-copy-copy.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/logo-points.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\logo-points.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-restaurant-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-restaurant-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-restaurant-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-restaurant-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-restaurant-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-restaurant-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-restaurant.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-restaurant.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-sultanahmet-300x183.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-sultanahmet-300x183.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/loti-sultanahmet.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\loti-sultanahmet.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/lotipoints3-300x116.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\lotipoints3-300x116.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/lotipoints3.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\lotipoints3.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/lotipoints4-copy2-copy.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\lotipoints4-copy2-copy.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2021/03/lotiroof-logo-copy.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2021\03\lotiroof-logo-copy.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/03/cropped-lotipoints-180x180.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\03\cropped-lotipoints-180x180.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/03/cropped-lotipoints-192x192.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\03\cropped-lotipoints-192x192.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/03/cropped-lotipoints-32x32.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\03\cropped-lotipoints-32x32.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/3a-1024x684.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\3a-1024x684.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/3a-300x200.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\3a-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/3a-768x513.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\3a-768x513.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/3a.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\3a.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/6a-1024x684.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\6a-1024x684.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/6a-300x200.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\6a-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/6a-768x513.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\6a-768x513.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/6a.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\6a.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03981-300x200.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03981-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03981-768x513.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03981-768x513.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03981.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03981.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03983-300x200.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03983-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03983-768x513.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03983-768x513.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03983.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03983.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03989-300x200.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03989-300x200.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03989-768x513.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03989-768x513.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/DSC03989.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\DSC03989.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2258-300x219.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2258-300x219.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2258-768x562.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2258-768x562.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2258.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2258.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2314-300x225.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2314-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2314-768x576.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2314-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2314.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2314.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2316-300x225.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2316-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2316-768x576.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2316-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2316.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2316.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2322-300x225.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2322-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2322-768x576.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2322-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2322.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2322.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2331-300x225.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2331-300x225.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2331-768x576.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2331-768x576.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/IMG_2331.jpeg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\IMG_2331.jpeg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-1-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-1-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-1-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-10-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-10-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-10-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-10-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-10-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-10-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-10.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-10.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-11-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-11-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-11-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-11-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-11-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-11-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-11.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-11.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-12-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-12-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-12-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-12-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-12-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-12-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-12.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-12.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-13-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-13-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-13-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-13-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-13-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-13-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-13.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-13.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-14-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-14-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-14-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-14-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-14-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-14-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-14.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-14.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-15-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-15-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-15-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-15-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-15-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-15-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-15.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-15.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-16-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-16-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-16-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-16-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-16-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-16-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-16.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-16.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-17-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-17-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-17-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-17-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-17-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-17-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-17.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-17.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-1-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-1-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-1-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-18.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-18.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-1-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-1-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-1-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-19.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-19.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-2-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-2-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-2-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-2-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-2-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-2.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-2.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-20-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-20-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-20-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-20-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-20-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-20-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-20.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-20.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-21-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-21-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-21-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-21-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-21-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-21-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-21.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-21.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-22-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-22-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-22-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-22-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-22-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-22-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-22.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-22.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-23-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-23-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-23-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-23-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-23-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-23-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-23.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-23.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-25-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-25-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-25-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-25-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-25-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-25-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-25.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-25.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-26-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-26-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-26-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-26-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-26-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-26-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-26.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-26.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-27-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-27-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-27-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-27-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-27-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-27-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-27.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-27.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-28-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-28-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-28-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-28-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-28-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-28-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-28.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-28.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-29-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-29-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-29-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-29-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-29-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-29-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-29.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-29.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-3-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-3-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-3-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-3-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-3-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-3.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-3.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-30-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-30-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-30-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-30-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-30-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-30-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-30.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-30.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-31-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-31-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-31-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-31-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-31-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-31-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-31.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-31.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-32-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-32-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-32-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-32-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-32-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-32-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-32.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-32.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-4-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-4-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-4-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-4-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-4-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-4-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-4.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-4.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-5-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-5-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-5-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-5-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-5-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-5.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-5.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-6-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-6-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-6-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-6-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-6-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-6-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-6.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-6.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-7-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-7-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-7-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-7-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-7-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-7-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-7.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-7.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-8-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-8-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-8-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-8-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-8-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-8-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-8.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-8.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-9-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-9-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-9-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-9-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-9-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-9-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Bistro-9.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Bistro-9.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-1-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-1-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-1-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-1-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-2-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-2-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-2-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-2-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-2-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-2.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-2.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-3-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-3-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-3-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-3-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-3-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-3.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-3.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/loti-roof-lounge-300x168.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\loti-roof-lounge-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-4-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-4-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-4-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-4-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-4-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-4-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-4.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-4.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-5-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-5-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-5-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-5-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-5-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/Loti-Roof-Lounge-5.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\Loti-Roof-Lounge-5.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/loti-roof-lounge-768x430.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\loti-roof-lounge-768x430.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/loti-roof-lounge.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\loti-roof-lounge.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/10/lotipoints-parallax.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\10\lotipoints-parallax.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/loti-bistro-1-300x168.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\loti-bistro-1-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/loti-bistro-1-768x430.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\loti-bistro-1-768x430.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/loti-bistro-1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\loti-bistro-1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/Loti-Logo-kopyas1i.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\Loti-Logo-kopyas1i.png
+Content Type: image/png
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge--1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge--1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge--300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge--300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge--768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge--768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge-.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge-.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge-300x168.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge-300x168.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge-768x430.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge-768x430.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge1-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge1-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge1-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge1-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge1-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge1-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge1.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge1.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge2-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge2-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge2-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge2-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge2-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge2-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge2.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge2.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge3-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge3-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge3-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge3-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge3-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge3-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge3.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge3.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge4-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge4-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge4-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge4-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge4-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge4-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge4.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge4.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge5-1024x684.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge5-1024x684.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge5-300x200.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge5-300x200.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge5-768x513.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge5-768x513.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2022/12/lotiz-lounge5.jpg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2022\12\lotiz-lounge5.jpg
+Content Type: image/jpeg
+
+Uri: https://lotipoints.com/wp-content/uploads/2023/08/Loti-Bistro-Menu.pdf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2023\08\Loti-Bistro-Menu.pdf
+Content Type: application/pdf
+
+Uri: https://lotipoints.com/wp-content/uploads/2023/08/Loti-Liva-Menu.pdf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2023\08\Loti-Liva-Menu.pdf
+Content Type: application/pdf
+
+Uri: https://lotipoints.com/wp-content/uploads/2023/08/Loti-Roof-Lounge-Menu.pdf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2023\08\Loti-Roof-Lounge-Menu.pdf
+Content Type: application/pdf
+
+Uri: https://lotipoints.com/wp-content/uploads/2023/08/Lotiz-Lounge-Menu.pdf
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2023\08\Lotiz-Lounge-Menu.pdf
+Content Type: application/pdf
+
+Uri: https://lotipoints.com/wp-includes/css/classic-themes.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\css\classic-themes.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-includes/css/dist/block-library/style.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.0
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/jquery.min.js?ver=3.6.4
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/ui/accordion.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\ui\accordion.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/ui/core.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\ui\core.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\ui\datepicker.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/jquery/ui/tabs.min.js?ver=1.13.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\jquery\ui\tabs.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.17
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.17
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/wp-mediaelement.min.css?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\wp-mediaelement.min.css
+Content Type: text/css
+
+Uri: https://lotipoints.com/wp-includes/js/mediaelement/wp-mediaelement.min.js?ver=6.2.2
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\js\mediaelement\wp-mediaelement.min.js
+Content Type: application/javascript
+
+Uri: https://lotipoints.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://lotipoints.com/wp-json/
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\index.htm
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-1
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Fcontact-us%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-6
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Fcontact-us%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-7
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Floti-restaurant%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-8
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Floti-restaurant%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-9
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Floti-roof-lounge%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-12
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Floti-roof-lounge%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-13
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Flotiz-lounge-hookah%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-10
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Flotiz-lounge-hookah%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-11
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Four-brands%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-2
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Four-brands%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-3
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Freservation%2F
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-4
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2Freservation%2F&format=xml
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\oembed\1.0\embed-5
+Content Type: text/xml
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/3909
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\3909
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/3912
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\3912
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/3913
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\3913
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/4227
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\4227
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/4275
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\4275
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/4446
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\4446
+Content Type: application/json
+
+Uri: https://lotipoints.com/wp-json/wp/v2/pages/4722
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\wp\v2\pages\4722
+Content Type: application/json
+
+Uri: https://lotipoints.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\lotipoints.com\xmlrpc.php
+Content Type: text/xml
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-199568312-1
+File Name: C:\Downloaded Web Sites\lotipoints.com\gtag\js
+Content Type: application/javascript
+
