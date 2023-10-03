@@ -139,39 +139,39 @@ File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2018\02\con
 Content Type: image/jpeg
 
 Uri: https://lotipoints.com/
-File Name: C:\Downloaded Web Sites\lotipoints.com\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/comments/feed/
-File Name: C:\Downloaded Web Sites\lotipoints.com\comments\feed\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\comments\feed\index.php
 Content Type: application/rss+xml
 
 Uri: https://lotipoints.com/contact-us/
-File Name: C:\Downloaded Web Sites\lotipoints.com\contact-us\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\contact-us\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/feed/
-File Name: C:\Downloaded Web Sites\lotipoints.com\feed\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\feed\index.php
 Content Type: application/rss+xml
 
 Uri: https://lotipoints.com/loti-restaurant/
-File Name: C:\Downloaded Web Sites\lotipoints.com\loti-restaurant\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\loti-restaurant\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/loti-roof-lounge/
-File Name: C:\Downloaded Web Sites\lotipoints.com\loti-roof-lounge\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\loti-roof-lounge\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/lotiz-lounge-hookah/
-File Name: C:\Downloaded Web Sites\lotipoints.com\lotiz-lounge-hookah\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\lotiz-lounge-hookah\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/our-brands/
-File Name: C:\Downloaded Web Sites\lotipoints.com\our-brands\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\our-brands\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/reservation/
-File Name: C:\Downloaded Web Sites\lotipoints.com\reservation\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\reservation\index.php
 Content Type: text/html
 
 Uri: https://lotipoints.com/wp-content/plugins/elated-core/assets/img/default_pattern.jpg
@@ -2639,7 +2639,7 @@ File Name: C:\Downloaded Web Sites\lotipoints.com\wp-includes\wlwmanifest.xml
 Content Type: application/xml
 
 Uri: https://lotipoints.com/wp-json/
-File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\index.htm
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-json\index.php
 Content Type: application/json
 
 Uri: https://lotipoints.com/wp-json/oembed/1.0/embed?url=https:%2F%2Flotipoints.com%2F
