@@ -66,14 +66,16 @@
 
 											<!-- LAYER NR. 4 -->
 											<div class="tp-caption  " id="slide-4-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['188','179','154','111']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 15px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-												<a itemprop="url" href="wp-content/uploads/2023/08/Loti-Roof-Lounge-Menu.pdf" target="_blank" style="text-transform: uppercase" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid">
+												<a itemprop="url" href="pdf/menu.pdf" target="_blank" style="text-transform: uppercase" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid">
 													<span class="eltdf-btn-pattern-holder"></span>
-													<span class="eltdf-btn-text">See Menu</span>
+													<span class="eltdf-btn-text">Menü</span>
 												</a>
 											</div>
 
 											<!-- LAYER NR. 5 -->
-											<div class="tp-caption   tp-resizeme" id="slide-4-layer-19" data-x="['left','left','left','left']" data-hoffset="['528','528','528','528']" data-y="['top','top','top','top']" data-voffset="['305','305','305','305']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="wp-content/uploads/2021/03/lotiroof-logo-copy.png" alt="" data-ww="['243px','243px','243px','243px']" data-hh="['146px','146px','146px','146px']" width="243" height="146" data-no-retina=""> </div>
+											<div class="tp-caption   tp-resizeme" id="slide-3-layer-29" data-x="['left','left','left','left']" data-hoffset="['582','582','582','582']" data-y="['top','top','top','top']" data-voffset="['317','317','317','317']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;">
+												<img src="assets/images/logo-resim-beyaz.png" alt="" data-ww="['140px','140px','140px','140px']" data-hh="['140px','140px','140px','140px']" width="200" height="200" data-no-retina="">
+											</div>
 										</li>
 										<!-- SLIDE  -->
 										<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/slider/slider2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
@@ -102,10 +104,11 @@
 
 											<!-- LAYER NR. 10 -->
 											<div class="tp-caption   tp-resizeme" id="slide-3-layer-29" data-x="['left','left','left','left']" data-hoffset="['582','582','582','582']" data-y="['top','top','top','top']" data-voffset="['317','317','317','317']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;">
-											<img src="assets/images/logo.png" alt="" data-ww="['140px','140px','140px','140px']" data-hh="['140px','140px','140px','140px']" width="200" height="200" data-no-retina=""> </div>
+												<img src="assets/images/logo-resim-beyaz.png" alt="" data-ww="['140px','140px','140px','140px']" data-hh="['140px','140px','140px','140px']" width="200" height="200" data-no-retina="">
+											</div>
 										</li>
 										<!-- SLIDE  -->
-										
+
 									</ul>
 									<script>
 										var htmlDiv = document.getElementById("rs-plugin-settings-inline-css");
@@ -289,7 +292,7 @@
 														<div class="wpb_wrapper">
 															<div class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-title-left eltdf-st-normal-space ">
 																<div class="eltdf-st-inner">
-																	
+
 																	<div class="eltdf-separator-holder clearfix">
 																		<div class="eltdf-separator"></div>
 																	</div>
@@ -319,14 +322,10 @@
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
 																		<a itemprop="url" href="loti-restaurant/index.php" target="_self">
-																			LOTI BISTRO </a>
+																			ALAÇATI </a>
 																	</h5>
 
-																	<p class="eltdf-iwt-text" style="color: #0a0a0a">Our
-																		restaurant which is always on your way to have a
-																		break no matter where you go. You will take a
-																		breath after a long day while enjoying the cozy
-																		atmosphere of our Loti.</p>
+																	<p class="eltdf-iwt-text" style="color: #0a0a0a">Alaçatı'nın eşsiz atmosferinde keyifli bir deneyim sunan Kırmızı Ardıç Kuşu, doğal güzellikleri, sanat galerisi ve lezzetleriyle misafirlerini büyülüyor. Alaçatı'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir adres</p>
 																</div>
 															</div>
 															<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -346,14 +345,11 @@
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
 																		<a itemprop="url" href="loti-roof-lounge/index.php" target="_self">
-																			LOTI ROOF LOUNGE </a>
+																			SANAT GALERİSİ </a>
 																	</h5>
 
 																	<p class="eltdf-iwt-text" style="color: #0a0a0a">
-																		Roof restaurant offers a wide range of Turkish
-																		and international cuisine with an extensive
-																		selection of beers, wines, cocktails and
-																		non-alcoholic beverages.</p>
+																		Sayra İnce Muran'ın sanatçı ruhuyla ortaya çıkan Kırmızı Ardıç Kuşu Sanat Galerisi, yerli ve yabancı sanatçıların eserlerini sanatseverlerle buluşturuyor. Sergilenen eserler, Alaçatı'nın sanatsal zenginliğini ve çeşitliliğini gözler önüne seriyor.</p>
 																</div>
 															</div>
 															<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -373,14 +369,11 @@
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
 																		<a itemprop="url" href="lotiz-lounge-hookah/index.php" target="_self">
-																			LOTIZ LOUNGE </a>
+																			KIRMIZI ARDIÇ KUŞU </a>
 																	</h5>
 
 																	<p class="eltdf-iwt-text" style="color: #0a0a0a">
-																		Lotiz Lounge would be a great choice to relax
-																		while watching the view of Marmara Sea, Old City
-																		by day or night. Enjoy the splendid view of the
-																		city while spending time at the roof.</p>
+																		Alaçatı'da lezzet ve sanatın buluşma noktası olan Kırmızı Ardıç Kuşu, pizza ve sanatın bir arada sunulduğu keyifli bir atmosferde misafirlerini ağırlıyor. Lezzet tutkunları, Alaçatı'nın eşsiz atmosferinde sanatla iç içe unutulmaz bir deneyim yaşayacak.</p>
 																</div>
 															</div>
 															<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -394,38 +387,28 @@
 										<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-8">
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
-													<div class="wpb_single_image wpb_content_element vc_align_center">
+													<!-- <div class="wpb_single_image wpb_content_element vc_align_center">
 
 														<figure class="wpb_wrapper vc_figure">
 															<div class="vc_single_image-wrapper   vc_box_border_grey">
 																<img width="426" height="300" src="wp-content/uploads/2020/11/h1-img-1-copy.png" class="vc_single_image-img attachment-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/h1-img-1-copy.png 426w, wp-content/uploads/2020/11/h1-img-1-copy-300x211.png 300w" sizes="(max-width: 426px) 100vw, 426px">
 															</div>
 														</figure>
-													</div>
+													</div> -->
 													<div class="eltdf-elements-holder   eltdf-one-column  eltdf-responsive-mode-768 ">
-														<div class="eltdf-eh-item    " data-item-class="eltdf-eh-custom-1892" data-1280-1600="10px 10% 0" data-1024-1280="10px 6% 0" data-768-1024="10px 10% 0">
+														<div class="eltdf-eh-item" data-item-class="eltdf-eh-custom-1892" data-1280-1600="10px 10% 0" data-1024-1280="10px 6% 0" data-768-1024="10px 10% 0">
 															<div class="eltdf-eh-item-inner">
 																<div class="eltdf-eh-item-content eltdf-eh-custom-1892" style="padding: 10px 16% 0">
 
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
-																			
-																			<p style="text-align: center;"><span style="color: #ffffff;">The
-																					LotiPoints consists of four crucial
-																					elements; Cuisine &#8211; Design
-																					&#8211; Entertainment and
-																					Atmosphere. No element in our
-																					restaurants are more or less
-																					important than the other. Instead
-																					they coexist in harmony.</span></p>
-																			<p style="text-align: center;"><span style="color: #ffffff;">Our
-																					restaurants, It commands a 360
-																					breathe taking landscape view of
-																					Istanbul all the way from the up
-																					close minaret of Hagia Sophia Mosque
-																					and across the Bosphorus strait to
-																					the Blue Mosque and out to the Sea
-																					of Marmara.</span></p>
+																			<h1 class="eltdf-st-text" style="text-align: center;">Hakkımızda</h1>
+																			<p style="text-align: center;"><span style="color: #ffffff;">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata
+																					geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel
+																					yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.</span></p>
+																			<p style="text-align: center;"><span style="color: #ffffff;">Ressam Sayra İnce Muran, Mimar Levent Muran ve oğulları Ardıç Muran ile birlikte yaşamaya karar
+																					verdikleri Alaçatı’da, üretmek ve paylaşmak için oluşturdukları eski bir Alaçatı evini şekillendirerek
+																					bugüne getirmişlerdir.</span></p>
 
 																		</div>
 																	</div>
@@ -461,7 +444,7 @@
 													<div class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-title-left eltdf-st-normal-space ">
 														<div class="eltdf-st-inner">
 															<h2 class="eltdf-st-title" style="color: #0a0a0a">
-																GALLERY </h2>
+																Galeri </h2>
 															<div class="eltdf-separator-holder clearfix">
 																<div class="eltdf-separator"></div>
 															</div>
@@ -472,85 +455,36 @@
 														<div class="eltdf-ig-inner eltdf-outer-space eltdf-ig-grid eltdf-ig-three-columns">
 															<div class="eltdf-ig-image eltdf-item-space">
 																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/IMG_2331.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2331">
-																		<img width="800" height="600" src="wp-content/uploads/2020/11/IMG_2331.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/IMG_2331.jpg 800w, wp-content/uploads/2020/11/IMG_2331-300x225.jpg 300w, wp-content/uploads/2020/11/IMG_2331-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																	<a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/kirmiziardickusu1.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2331">
+																		<img width="800" height="600" src="assets/images/kirmiziardickusu1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu1.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 															</div>
 															<div class="eltdf-ig-image eltdf-item-space">
 																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/IMG_2322.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2322">
-																		<img width="800" height="600" src="wp-content/uploads/2020/11/IMG_2322.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/IMG_2322.jpg 800w, wp-content/uploads/2020/11/IMG_2322-300x225.jpg 300w, wp-content/uploads/2020/11/IMG_2322-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																	<a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/kirmiziardickusu2.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2322">
+																		<img width="800" height="600" src="assets/images/kirmiziardickusu2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu2.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 															</div>
 															<div class="eltdf-ig-image eltdf-item-space">
 																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/IMG_2316.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2316">
-																		<img width="800" height="600" src="wp-content/uploads/2020/11/IMG_2316.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/IMG_2316.jpg 800w, wp-content/uploads/2020/11/IMG_2316-300x225.jpg 300w, wp-content/uploads/2020/11/IMG_2316-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																	<a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/kirmiziardickusu3.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2322">
+																		<img width="800" height="600" src="assets/images/kirmiziardickusu3.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu3.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 															</div>
 															<div class="eltdf-ig-image eltdf-item-space">
 																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/IMG_2314.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2314">
-																		<img width="800" height="600" src="wp-content/uploads/2020/11/IMG_2314.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/IMG_2314.jpg 800w, wp-content/uploads/2020/11/IMG_2314-300x225.jpg 300w, wp-content/uploads/2020/11/IMG_2314-768x576.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																	<a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/kirmiziardickusu4.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2322">
+																		<img width="800" height="600" src="assets/images/kirmiziardickusu4.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu4.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 															</div>
 															<div class="eltdf-ig-image eltdf-item-space">
 																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/IMG_2258.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2258">
-																		<img width="800" height="585" src="wp-content/uploads/2020/11/IMG_2258.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/IMG_2258.jpg 800w, wp-content/uploads/2020/11/IMG_2258-300x219.jpg 300w, wp-content/uploads/2020/11/IMG_2258-768x562.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC04139.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC04139">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC04139.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC04139.jpg 800w, wp-content/uploads/2020/11/DSC04139-300x200.jpg 300w, wp-content/uploads/2020/11/DSC04139-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC04081.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC04081">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC04081.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC04081.jpg 800w, wp-content/uploads/2020/11/DSC04081-300x200.jpg 300w, wp-content/uploads/2020/11/DSC04081-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC03989.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC03989">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC03989.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC03989.jpg 800w, wp-content/uploads/2020/11/DSC03989-300x200.jpg 300w, wp-content/uploads/2020/11/DSC03989-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC03983.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC03983">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC03983.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC03983.jpg 800w, wp-content/uploads/2020/11/DSC03983-300x200.jpg 300w, wp-content/uploads/2020/11/DSC03983-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC03981.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC03981">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC03981.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC03981.jpg 800w, wp-content/uploads/2020/11/DSC03981-300x200.jpg 300w, wp-content/uploads/2020/11/DSC03981-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC03973.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC03973">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC03973.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC03973.jpg 800w, wp-content/uploads/2020/11/DSC03973-300x200.jpg 300w, wp-content/uploads/2020/11/DSC03973-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
-																	</a>
-																</div>
-															</div>
-															<div class="eltdf-ig-image eltdf-item-space">
-																<div class="eltdf-ig-image-inner">
-																	<a itemprop="image" class="eltdf-ig-lightbox" href="wp-content/uploads/2020/11/DSC03947.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="DSC03947">
-																		<img width="800" height="534" src="wp-content/uploads/2020/11/DSC03947.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/DSC03947.jpg 800w, wp-content/uploads/2020/11/DSC03947-300x200.jpg 300w, wp-content/uploads/2020/11/DSC03947-768x513.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																	<a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/kirmiziardickusu5.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-574]" title="IMG_2322">
+																		<img width="800" height="600" src="assets/images/kirmiziardickusu5.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu5.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 															</div>
@@ -573,7 +507,7 @@
 													<div class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-title-left eltdf-st-normal-space ">
 														<div class="eltdf-st-inner">
 															<h2 class="eltdf-st-title" style="color: #0a0a0a">
-																LOCATIONS </h2>
+																Harita </h2>
 															<div class="eltdf-separator-holder clearfix">
 																<div class="eltdf-separator"></div>
 															</div>
@@ -588,7 +522,7 @@
 															</div>
 														</figure>
 													</div>
-													<div class="vc_btn3-container vc_btn3-center"><a style="background-color:#bb9642; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-custom" href="contact-us/index.php" title="">RESTAURANTS</a></div>
+													<div class="vc_btn3-container vc_btn3-center"><a style="background-color:#bb9642; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-lg vc_btn3-shape-square vc_btn3-style-custom" href="iletisim.php" title="">İletişim</a></div>
 													<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
 												</div>
 											</div>

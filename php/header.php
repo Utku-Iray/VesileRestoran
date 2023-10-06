@@ -13,7 +13,8 @@
                         <div class="eltdf-logo-wrapper">
                             <a itemprop="url" href="index.php" style="height: 65px;">
                                 <img itemprop="image" class="eltdf-normal-logo" src="assets/images/logo.png" alt="logo">
-                                <img itemprop="image" class="eltdf-dark-logo" src="assets/images/logo.png" alt="dark logo"> <img itemprop="image" class="eltdf-light-logo" src="assets/images/logo.png" alt="light logo"> </a>
+                                <img itemprop="image" class="eltdf-dark-logo" src="assets/images/logo.png" alt="dark logo"> 
+                                <img itemprop="image" class="eltdf-light-logo" src="assets/images/logo-beyaz.png" alt="light logo"> </a>
                         </div>
 
                     </div>

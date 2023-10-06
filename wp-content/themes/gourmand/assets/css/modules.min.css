@@ -775,6 +775,10 @@ blockquote cite {
     padding: 0;
     background-color: transparent
 }
+.wpb_wrapper h1{
+    font-family: "Alex Brush", cursive;
+color:#c5b358
+}
 
 .eltdf-vertical-align-containers.eltdf-25-50-25 .eltdf-position-left,
 .eltdf-vertical-align-containers.eltdf-25-50-25 .eltdf-position-right {
