@@ -5,21 +5,23 @@
 							<div class="eltdf-column-content eltdf-grid-col-12">
 								<div id="text-3" class="widget eltdf-footer-column-1 widget_text">
 									<div class="textwidget">
-										<p><a href="../index.php">HOME</a>       <a href="../our-brands/index.php">ABOUT
-												US</a>       <a
-												href="https://lotipoints.com/wp-content/uploads/2022/11/Loti-Bistro-2023-Menu.pdf">MENUS</a> 
-											     <a href="../reservation/index.php">RESERVATION</a>       <a
-												href="../contact-us/index.php">CONTACT</a></p>
+										<p><a href="index.php">Anasayfa</a>       <a href="hakkimizda.php">Hakkımızda
+												</a>       <a
+												href="sanat-galerisi.php">Sanat Galerisi</a> 
+											     <a href="pdf/menu.pdf">Menu</a>       <a
+												href="iletisim.php">İletişim</a></p>
 									</div>
 								</div>
 								<div id="text-15" class="widget eltdf-footer-column-1 widget_text">
 									<div class="textwidget">
-										<p><span style="color: #919191;"><strong>Adress:</strong> Sultan Ahmet, Divan
-												Yolu Cd. No:27, 34112 Fatih/İstanbul </span></p>
-										<p><span style="color: #919191;"><strong>Phone: </strong><a
-													style="color: #919191;" href="tel:+905380935885">+90 (538) 093
-													5885</a><strong> Mail: </strong><a style="color: #919191;"
-													href="mailto:info@lotipoints.com">info@lotipoints.com</a></span></p>
+										<p><span style="color: #919191;"><strong>Adres:</strong> Alaçatı, 11005. Sokak, No: 21, 35937, Çeşme/İZMİR,</span></p>
+ </span></p>
+										<p><span style="color: #919191;"><strong>Telefon: </strong><a
+													style="color: #919191;" href="tel:+905357749407">0535 774 94 07</a> <br>
+													<strong> Mail: </strong><a style="color: #919191;"
+													href="mailto:info@kirmiziardickusu.com">info@kirmiziardickusu.com</a></span></p>
+										<p><span style="color: #919191;"><strong>© Vesi's Agency 2023</strong></span></p>
+
 									</div>
 								</div>
 							</div>
@@ -32,7 +34,7 @@
 							<div class="eltdf-grid-col-12">
 								<div id="media_image-3" class="widget eltdf-footer-bottom-column-1 widget_media_image">
 									<a href="../index.php"><img width="120" height="46"
-											src="../wp-content/uploads/2021/03/lotipoints4-copy2-copy.png"
+											src="assets/images/logo-beyaz.png"
 											class="image wp-image-4443  attachment-full size-full" alt=""
 											decoding="async" loading="lazy" style="max-width: 100%; height: auto;"></a>
 								</div>
@@ -45,7 +47,7 @@
 	</div> <!-- close div.eltdf-wrapper -->
 
 	<span class="wptwa-flag"></span>
-	<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+	<!-- <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
 		<symbol id="wptwa-logo">
 			<path id="WhatsApp"
 				d="M90,43.841c0,24.213-19.779,43.841-44.182,43.841c-7.747,0-15.025-1.98-21.357-5.455L0,90l7.975-23.522   c-4.023-6.606-6.34-14.354-6.34-22.637C1.635,19.628,21.416,0,45.818,0C70.223,0,90,19.628,90,43.841z M45.818,6.982   c-20.484,0-37.146,16.535-37.146,36.859c0,8.065,2.629,15.534,7.076,21.61L11.107,79.14l14.275-4.537   c5.865,3.851,12.891,6.097,20.437,6.097c20.481,0,37.146-16.533,37.146-36.857S66.301,6.982,45.818,6.982z M68.129,53.938   c-0.273-0.447-0.994-0.717-2.076-1.254c-1.084-0.537-6.41-3.138-7.4-3.495c-0.993-0.358-1.717-0.538-2.438,0.537   c-0.721,1.076-2.797,3.495-3.43,4.212c-0.632,0.719-1.263,0.809-2.347,0.271c-1.082-0.537-4.571-1.673-8.708-5.333   c-3.219-2.848-5.393-6.364-6.025-7.441c-0.631-1.075-0.066-1.656,0.475-2.191c0.488-0.482,1.084-1.255,1.625-1.882   c0.543-0.628,0.723-1.075,1.082-1.793c0.363-0.717,0.182-1.344-0.09-1.883c-0.27-0.537-2.438-5.825-3.34-7.977   c-0.902-2.15-1.803-1.792-2.436-1.792c-0.631,0-1.354-0.09-2.076-0.09c-0.722,0-1.896,0.269-2.889,1.344   c-0.992,1.076-3.789,3.676-3.789,8.963c0,5.288,3.879,10.397,4.422,11.113c0.541,0.716,7.49,11.92,18.5,16.223   C58.2,65.771,58.2,64.336,60.186,64.156c1.984-0.179,6.406-2.599,7.312-5.107C68.398,56.537,68.398,54.386,68.129,53.938z">
@@ -104,7 +106,7 @@
 				<use xlink:href="#wptwa-logo"></use>
 			</svg>
 			<span class="text">Reservation for WhatsApp</span> </span>
-	</div>
+	</div> -->
 	<script>
 		let customifyTriggerFontsLoadedEvents = function () {
 			// Trigger the 'wf-active' event, just like Web Font Loader would do.
@@ -143,7 +145,7 @@
 		id='eltdf-restaurant-script-js'></script>
 	<script type='text/javascript' id='pixlikes-plugin-script-js-extra'>
 		/* <![CDATA[ */
-		var locals = { "ajax_url": "https:\/\/lotipoints.com\/wp-admin\/admin-ajax.php", "ajax_nounce": "b3c9c53d2c", "load_likes_with_ajax": "", "already_voted_msg": "You already voted!", "like_on_action": "click", "hover_time": "1000", "free_votes": "" };
+		var locals = { "ajax_url": "https:\/\/kirmiziardickusu.com\/wp-admin\/admin-ajax.php", "ajax_nounce": "b3c9c53d2c", "load_likes_with_ajax": "", "already_voted_msg": "You already voted!", "like_on_action": "click", "hover_time": "1000", "free_votes": "" };
 		/* ]]> */
 	</script>
 	<script type='text/javascript' src='../wp-content/plugins/pixlikes/js/public.js?ver=1.0.0'
@@ -151,7 +153,7 @@
 	<script type='text/javascript' id='quform-js-extra'>
 		/* <![CDATA[ */
 		var quformL10n = [];
-		quformL10n = { "pluginUrl": "https:\/\/lotipoints.com\/wp-content\/plugins\/quform", "ajaxUrl": "https:\/\/lotipoints.com\/wp-admin\/admin-ajax.php", "ajaxError": "AJAX hatas\u0131", "errorMessageTitle": "Bir problem vard\u0131", "removeFile": "Kald\u0131r", "supportPageCaching": true };
+		quformL10n = { "pluginUrl": "https:\/\/kirmiziardickusu.com\/wp-content\/plugins\/quform", "ajaxUrl": "https:\/\/kirmiziardickusu.com\/wp-admin\/admin-ajax.php", "ajaxError": "AJAX hatas\u0131", "errorMessageTitle": "Bir problem vard\u0131", "removeFile": "Kald\u0131r", "supportPageCaching": true };
 		/* ]]> */
 	</script>
 	<script type='text/javascript' src='../wp-content/plugins/quform/cache/quform.js?ver=1691862965'
@@ -245,7 +247,7 @@
 		id='multiscroll-js'></script>
 	<script type='text/javascript' id='gourmand-elated-modules-js-extra'>
 		/* <![CDATA[ */
-		var eltdfGlobalVars = { "vars": { "eltdfAddForAdminBar": 0, "eltdfElementAppearAmount": -100, "eltdfAjaxUrl": "https:\/\/lotipoints.com\/wp-admin\/admin-ajax.php", "eltdfStickyHeaderHeight": 0, "eltdfStickyHeaderTransparencyHeight": 70, "eltdfTopBarHeight": 0, "eltdfLogoAreaHeight": 0, "eltdfMenuAreaHeight": 94, "eltdfMobileHeaderHeight": 70 } };
+		var eltdfGlobalVars = { "vars": { "eltdfAddForAdminBar": 0, "eltdfElementAppearAmount": -100, "eltdfAjaxUrl": "https:\/\/kirmiziardickusu.com\/wp-admin\/admin-ajax.php", "eltdfStickyHeaderHeight": 0, "eltdfStickyHeaderTransparencyHeight": 70, "eltdfTopBarHeight": 0, "eltdfLogoAreaHeight": 0, "eltdfMenuAreaHeight": 94, "eltdfMobileHeaderHeight": 70 } };
 		var eltdfPerPageVars = { "vars": { "eltdfStickyScrollAmount": 0, "eltdfHeaderTransparencyHeight": 94, "eltdfHeaderVerticalWidth": 0 } };
 		/* ]]> */
 	</script>

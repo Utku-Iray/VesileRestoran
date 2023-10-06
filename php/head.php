@@ -15,13 +15,13 @@
 	<!-- This site is optimized with the Yoast SEO plugin v19.10 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>KırmızıArdıçKuşu | Alaçatı</title>
 	<meta name="description"
-		content="Our restaurants, It commands a 360 breathe taking landscape view of Istanbul all the way from the up close minaret of Hagia Sophia Mosque and across the Bosphorus strait to the Blue Mosque and out to the Sea of Marmara.">
+		content="2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.">
 	<link rel="canonical" href="index.php">
 	<meta property="og:locale" content="tr_TR">
 	<meta property="og:type" content="website">
 	<meta property="og:title" content="kirmiziardickusu.com | Alaçatı">
 	<meta property="og:description"
-		content="Our restaurants, It commands a 360 breathe taking landscape view of Istanbul all the way from the up close minaret of Hagia Sophia Mosque and across the Bosphorus strait to the Blue Mosque and out to the Sea of Marmara.">
+		content="2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.">
 	<meta property="og:url" content="https://kirmiziardickusu.com/">
 	<meta property="og:site_name" content="kirmiziardickusu.com">
 	<meta property="article:modified_time" content="2022-10-10T09:36:10+00:00">
@@ -545,9 +545,9 @@
 	<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
 	<meta name="generator"
 		content="Powered by Slider Revolution 5.4.8.3 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.">
-	<link rel="icon" href="wp-content/uploads/2022/03/cropped-lotipoints-32x32.png" sizes="32x32">
-	<link rel="icon" href="wp-content/uploads/2022/03/cropped-lotipoints-192x192.png" sizes="192x192">
-	<link rel="apple-touch-icon" href="wp-content/uploads/2022/03/cropped-lotipoints-180x180.png">
+	<link rel="icon" href="assets/images/logo-resim.png" sizes="32x32">
+	<link rel="icon" href="assets/images/logo-resim.png" sizes="192x192">
+	<link rel="apple-touch-icon" href="assets/images/logo-resim.png">
 	<meta name="msapplication-TileImage"
 		content="https://kirmiziardickusu.com/wp-content/uploads/2022/03/cropped-lotipoints-270x270.png">
 	<style id="customify_output_style">

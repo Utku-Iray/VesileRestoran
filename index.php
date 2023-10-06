@@ -6,20 +6,17 @@
 			<a class="eltdf-close-side-menu" href="#" target="_self">
 				<span aria-hidden="true" class="eltdf-icon-font-elegant icon_close "></span> </a>
 		</div>
-		<div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="wp-content/uploads/2021/03/lotipoints3.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="wp-content/uploads/2021/03/lotipoints3.png 340w, wp-content/uploads/2021/03/lotipoints3-300x116.png 300w" sizes="(max-width: 340px) 100vw, 340px"></a></div>
+		<div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="assets/images/logo.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="assets/images/logo.png" sizes="(max-width: 340px) 100vw, 340px"></a></div>
 		<div id="text-5" class="widget eltdf-sidearea widget_text">
 			<div class="textwidget">
-				<p style="margin: -10px 0 -24px;">The Loti Group consists of four crucial elements; Cuisine – Design –
-					Entertainment and Atmosphere. No element in our restaurants are more or less important than the
-					other. Instead they coexist in harmony.</p>
+				<p style="margin: -10px 0 -24px;">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.</p>
 			</div>
 		</div>
 		<div id="text-11" class="widget eltdf-sidearea widget_text">
 			<div class="textwidget">
-				<h6>Phone:    +90 (538) 093 5885</h6>
-				<h6>E-mail:      <a style="font-size: 14px; font-weight: 400; color: #999; letter-spacing: .1em; text-transform: lowercase;" href="mailto:info@lotipoints.com">info@lotipoints.com</a></h6>
-				<h6>Address:   <span style="font-size: 14px; font-weight: 400; color: #999; letter-spacing: .1em; text-transform: capitalize;">Sultan
-						Ahmet, Divan Yolu Cd. No:27, 34112 Fatih/İstanbul</span></h6>
+				<h6>Phone:    +90 (535) 774 94 07</h6>
+				<h6>E-mail:      <a style="font-size: 14px; font-weight: 400; color: #999; letter-spacing: .1em; text-transform: lowercase;" href="mailto:info@kirmiziardickusu.com">info@kirmiziardickusu.com</a></h6>
+				<h6>Address:   <span style="font-size: 14px; font-weight: 400; color: #999; letter-spacing: .1em; text-transform: capitalize;">Alaçatı, 11005. Sokak, No: 21, 35937, Çeşme/İZMİR,</span></h6>
 			</div>
 		</div>
 		<div class="widget eltdf-separator-widget">
@@ -55,14 +52,14 @@
 
 											<!-- LAYER NR. 1 -->
 											<div class="tp-caption  " id="slide-4-layer-2" data-x="['center','center','center','center']" data-hoffset="['1','1','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-27','-18','-51','-124']" data-fontsize="['61','51','35','30']" data-lineheight="['61','61','41','40']" data-width="['none','none','none','290']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":400,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 61px; line-height: 61px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">
-												360° ISTANBUL VIEW </div>
+												Alaçatı'da Sanat ve Lezzet Bir Arada! </div>
 
 											<!-- LAYER NR. 2 -->
-											<div class="tp-caption tp-shape tp-shapewrapper " id="slide-4-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['44','46','11','-52']" data-width="120" data-height="2" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":600,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgb(197,179,88);"> </div>
+											<!-- <div class="tp-caption tp-shape tp-shapewrapper " id="slide-4-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['44','46','11','-52']" data-width="120" data-height="2" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":600,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgb(197,179,88);"> </div> -->
 
 											<!-- LAYER NR. 3 -->
-											<div class="tp-caption  " id="slide-4-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','-1']" data-y="['middle','middle','middle','middle']" data-voffset="['100','98','66','8']" data-fontsize="['45','40','35','30']" data-lineheight="['45','45','45','37']" data-width="['none','none','none','245']" data-height="['none','none','none','61']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":800,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 45px; line-height: 45px; font-weight: 400; color: rgba(255,255,255,0.6); letter-spacing: 0px;font-family:Alex Brush;">
-												Take a slice of our perfect culinary heaven! </div>
+											<!-- <div class="tp-caption  " id="slide-4-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','-1']" data-y="['middle','middle','middle','middle']" data-voffset="['100','98','66','8']" data-fontsize="['45','40','35','30']" data-lineheight="['45','45','45','37']" data-width="['none','none','none','245']" data-height="['none','none','none','61']" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":800,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 45px; line-height: 45px; font-weight: 400; color: rgba(255,255,255,0.6); letter-spacing: 0px;font-family:Alex Brush;">
+												Take a slice of our perfect culinary heaven! </div> -->
 
 											<!-- LAYER NR. 4 -->
 											<div class="tp-caption  " id="slide-4-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['188','179','154','111']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 15px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
@@ -85,20 +82,20 @@
 
 											<!-- LAYER NR. 6 -->
 											<div class="tp-caption  " id="slide-3-layer-2" data-x="['center','center','center','center']" data-hoffset="['1','1','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['-27','-18','-52','-124']" data-fontsize="['61','51','35','30']" data-lineheight="['61','61','41','40']" data-width="['none','none','none','323']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":400,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 5; white-space: nowrap; font-size: 61px; line-height: 61px; font-weight: 900; color: #ffffff; letter-spacing: 0px;font-family:Raleway;">
-												LOTI RESTAURANT </div>
+											Alaçatı'da Sanat ve Lezzet Bir Arada! </div>
 
 											<!-- LAYER NR. 7 -->
 											<div class="tp-caption tp-shape tp-shapewrapper " id="slide-3-layer-3" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['44','46','11','-52']" data-width="120" data-height="2" data-whitespace="nowrap" data-type="shape" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":600,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 6;background-color:rgb(197,179,88);"> </div>
 
 											<!-- LAYER NR. 8 -->
-											<div class="tp-caption  " id="slide-3-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','-1']" data-y="['middle','middle','middle','middle']" data-voffset="['100','98','66','8']" data-fontsize="['45','40','35','30']" data-lineheight="['45','45','45','37']" data-width="['none','none','none','277']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":800,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 45px; line-height: 45px; font-weight: 400; color: rgba(255,255,255,0.6); letter-spacing: 0px;font-family:Alex Brush;">
-												We are focusing on cooking appetizing meals. </div>
+											<!-- <div class="tp-caption  " id="slide-3-layer-5" data-x="['center','center','center','center']" data-hoffset="['0','0','-1','-1']" data-y="['middle','middle','middle','middle']" data-voffset="['100','98','66','8']" data-fontsize="['45','40','35','30']" data-lineheight="['45','45','45','37']" data-width="['none','none','none','277']" data-height="none" data-whitespace="['nowrap','nowrap','nowrap','normal']" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":800,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','center']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 7; white-space: nowrap; font-size: 45px; line-height: 45px; font-weight: 400; color: rgba(255,255,255,0.6); letter-spacing: 0px;font-family:Alex Brush;">
+												We are focusing on cooking appetizing meals. </div> -->
 
 											<!-- LAYER NR. 9 -->
 											<div class="tp-caption  " id="slide-3-layer-4" data-x="['center','center','center','center']" data-hoffset="['0','0','0','0']" data-y="['middle','middle','middle','middle']" data-voffset="['188','179','154','111']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="text" data-basealign="slide" data-responsive_offset="off" data-responsive="off" data-frames='[{"delay":1000,"speed":1500,"frame":"0","from":"y:50px;opacity:0;","to":"o:1;","ease":"Expo.easeOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 8; white-space: nowrap; font-size: 15px; line-height: 22px; font-weight: 400; color: #ffffff; letter-spacing: 0px;font-family:Open Sans;">
-												<a itemprop="url" href="loti-restaurant/index.php" target="_blank" style="text-transform: uppercase" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid">
+												<a itemprop="url" href="pdf/menu.pdf" target="_blank" style="text-transform: uppercase" class="eltdf-btn eltdf-btn-medium eltdf-btn-solid">
 													<span class="eltdf-btn-pattern-holder"></span>
-													<span class="eltdf-btn-text">DISCOVER RESTAURANT</span>
+													<span class="eltdf-btn-text">Menü</span>
 												</a>
 											</div>
 
@@ -314,18 +311,18 @@
 														<div class="wpb_wrapper">
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
-																	<a itemprop="url" href="loti-restaurant/index.php" target="_self">
+																	<a itemprop="url" href="index.php" target="_self">
 																		<img width="768" height="468" src="assets/images/anasayfa1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa1.jpg" sizes="(max-width: 768px) 100vw, 768px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
-																		<a itemprop="url" href="loti-restaurant/index.php" target="_self">
+																		<a itemprop="url" href="index.php" target="_self">
 																			ALAÇATI </a>
 																	</h5>
 
-																	<p class="eltdf-iwt-text" style="color: #0a0a0a">Alaçatı'nın eşsiz atmosferinde keyifli bir deneyim sunan Kırmızı Ardıç Kuşu, doğal güzellikleri, sanat galerisi ve lezzetleriyle misafirlerini büyülüyor. Alaçatı'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir adres</p>
+																	<p class="eltdf-iwt-text" style="color: #0a0a0a">Alaçatı'nın eşsiz atmosferinde keyifli bir deneyim sunan Kırmızı Ardıç Kuşu, doğal güzellikleri, sanat galerisi ve lezzetleriyle misafirlerini büyülüyor. Alaçatı'nın tarihi ve kültürel zenginliklerini keşfetmek isteyenler için de ideal bir adres.</p>
 																</div>
 															</div>
 															<div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
@@ -337,14 +334,14 @@
 														<div class="wpb_wrapper">
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
-																	<a itemprop="url" href="loti-roof-lounge/index.php" target="_self">
+																	<a itemprop="url" href="index.php" target="_self">
 																		<img width="800" height="488" src="assets/images/anasayfa2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa2.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
-																		<a itemprop="url" href="loti-roof-lounge/index.php" target="_self">
+																		<a itemprop="url" href="index.php" target="_self">
 																			SANAT GALERİSİ </a>
 																	</h5>
 
@@ -361,14 +358,14 @@
 														<div class="wpb_wrapper">
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
-																	<a itemprop="url" href="lotiz-lounge-hookah/index.php" target="_self">
+																	<a itemprop="url" href="index.php" target="_self">
 																		<img width="800" height="488" src="assets/images/anasayfa3.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa3.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
 
 																	<h5 class="eltdf-iwt-title" style="color: #0a0a0a;margin-top: 43px">
-																		<a itemprop="url" href="lotiz-lounge-hookah/index.php" target="_self">
+																		<a itemprop="url" href="index.php" target="_self">
 																			KIRMIZI ARDIÇ KUŞU </a>
 																	</h5>
 

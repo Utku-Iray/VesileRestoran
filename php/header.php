@@ -34,7 +34,7 @@
                                     <a href="sanat-galerisi.php" class=""><span class="item_outer"><span class="item_text">Sanat Galerisi</span></span></a>
                                 </li>
                                 <li id="nav-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page  narrow">
-                                    <a href="pdf/menu.pdf" target="_blank" class=""><span class="item_outer"><span class="item_text">Menu</span></span></a>
+                                    <a href="pdf/menu.pdf" target="_blank" class=""><span class="item_outer"><span class="item_text">MENÜ</span></span></a>
                                 </li>
                               
                                 <li id="nav-menu-item-4871" class="menu-item menu-item-type-post_type menu-item-object-page  narrow">
@@ -88,7 +88,7 @@
 
                                 <div class="eltdf-mobile-logo-wrapper">
                                     <a itemprop="url" href="index.php" style="height: 65px">
-                                        <img itemprop="image" src="wp-content/uploads/2021/03/lotipoints3.png" alt="Mobile Logo">
+                                        <img itemprop="image" src="assets/images/logo.png" alt="Mobile Logo">
                                     </a>
                                 </div>
 
