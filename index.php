@@ -48,9 +48,9 @@
 								<!-- START REVOLUTION SLIDER 5.4.8.3 fullscreen mode -->
 								<div id="rev_slider_1_1" class="rev_slider fullscreenbanner" style="display:none;" data-version="5.4.8.3">
 									<ul> <!-- SLIDE  -->
-										<li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/anasayfa.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+										<li data-index="rs-4" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/slider/slider1.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 											<!-- MAIN IMAGE -->
-											<img src="assets/images/anasayfa.jpg" alt="" title="Kırmızı Ardıç Kuşu" width="1920" height="1100" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina="">
+											<img src="assets/images/slider/slider1.jpg" alt="" title="Kırmızı Ardıç Kuşu" width="1920" height="1100" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina="">
 											<!-- LAYERS -->
 
 											<!-- LAYER NR. 1 -->
@@ -76,9 +76,9 @@
 											<div class="tp-caption   tp-resizeme" id="slide-4-layer-19" data-x="['left','left','left','left']" data-hoffset="['528','528','528','528']" data-y="['top','top','top','top']" data-voffset="['305','305','305','305']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="wp-content/uploads/2021/03/lotiroof-logo-copy.png" alt="" data-ww="['243px','243px','243px','243px']" data-hh="['146px','146px','146px','146px']" width="243" height="146" data-no-retina=""> </div>
 										</li>
 										<!-- SLIDE  -->
-										<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/kirmiziardickusu2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
+										<li data-index="rs-3" data-transition="fade" data-slotamount="default" data-hideafterloop="0" data-hideslideonmobile="off" data-easein="default" data-easeout="default" data-masterspeed="300" data-thumb="assets/images/slider/slider2.jpg" data-rotate="0" data-saveperformance="off" data-title="Slide" data-param1="" data-param2="" data-param3="" data-param4="" data-param5="" data-param6="" data-param7="" data-param8="" data-param9="" data-param10="" data-description="">
 											<!-- MAIN IMAGE -->
-											<img src="assets/images/kirmiziardickusu2.jpg" alt="" title="Kırmızı Ardıç Kuşu" width="1920" height="1100" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina="">
+											<img src="assets/images/slider/slider2.jpg" alt="" title="Kırmızı Ardıç Kuşu" width="1920" height="1100" data-bgposition="center center" data-bgfit="cover" data-bgrepeat="no-repeat" data-bgparallax="6" class="rev-slidebg" data-no-retina="">
 											<!-- LAYERS -->
 
 											<!-- LAYER NR. 6 -->
@@ -101,7 +101,8 @@
 											</div>
 
 											<!-- LAYER NR. 10 -->
-											<div class="tp-caption   tp-resizeme" id="slide-3-layer-29" data-x="['left','left','left','left']" data-hoffset="['582','582','582','582']" data-y="['top','top','top','top']" data-voffset="['317','317','317','317']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;"><img src="wp-content/uploads/2022/12/Loti-Logo-kopyas1i.png" alt="" data-ww="['140px','140px','140px','140px']" data-hh="['140px','140px','140px','140px']" width="200" height="200" data-no-retina=""> </div>
+											<div class="tp-caption   tp-resizeme" id="slide-3-layer-29" data-x="['left','left','left','left']" data-hoffset="['582','582','582','582']" data-y="['top','top','top','top']" data-voffset="['317','317','317','317']" data-width="none" data-height="none" data-whitespace="nowrap" data-type="image" data-responsive_offset="on" data-frames='[{"delay":0,"speed":300,"frame":"0","from":"opacity:0;","to":"o:1;","ease":"Power3.easeInOut"},{"delay":"wait","speed":300,"frame":"999","to":"opacity:0;","ease":"Power3.easeInOut"}]' data-textalign="['inherit','inherit','inherit','inherit']" data-paddingtop="[0,0,0,0]" data-paddingright="[0,0,0,0]" data-paddingbottom="[0,0,0,0]" data-paddingleft="[0,0,0,0]" style="z-index: 9;">
+											<img src="assets/images/logo.png" alt="" data-ww="['140px','140px','140px','140px']" data-hh="['140px','140px','140px','140px']" width="200" height="200" data-no-retina=""> </div>
 										</li>
 										<!-- SLIDE  -->
 										
@@ -288,13 +289,12 @@
 														<div class="wpb_wrapper">
 															<div class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-title-left eltdf-st-normal-space ">
 																<div class="eltdf-st-inner">
-																	<h2 class="eltdf-st-title" style="color: #0a0a0a">
-																		OUR BRANDS </h2>
+																	
 																	<div class="eltdf-separator-holder clearfix">
 																		<div class="eltdf-separator"></div>
 																	</div>
 																	<p class="eltdf-st-text">
-																		We Add Happiness to Your Life </p>
+																		Kırmızı Ardıç Kuşu </p>
 																</div>
 															</div>
 														</div>
@@ -312,7 +312,7 @@
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
 																	<a itemprop="url" href="loti-restaurant/index.php" target="_self">
-																		<img width="768" height="468" src="wp-content/uploads/2021/03/loti-sultanahmet.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2021/03/loti-sultanahmet.jpg 768w, wp-content/uploads/2021/03/loti-sultanahmet-300x183.jpg 300w" sizes="(max-width: 768px) 100vw, 768px">
+																		<img width="768" height="468" src="assets/images/anasayfa1.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa1.jpg" sizes="(max-width: 768px) 100vw, 768px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
@@ -339,7 +339,7 @@
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
 																	<a itemprop="url" href="loti-roof-lounge/index.php" target="_self">
-																		<img width="800" height="488" src="wp-content/uploads/2020/11/loti1-1-copy.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/loti1-1-copy.jpg 800w, wp-content/uploads/2020/11/loti1-1-copy-300x183.jpg 300w, wp-content/uploads/2020/11/loti1-1-copy-768x468.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																		<img width="800" height="488" src="assets/images/anasayfa2.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa2.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
@@ -366,7 +366,7 @@
 															<div class="eltdf-image-with-text-holder   eltdf-image-behavior-custom-link">
 																<div class="eltdf-iwt-image">
 																	<a itemprop="url" href="lotiz-lounge-hookah/index.php" target="_self">
-																		<img width="800" height="488" src="wp-content/uploads/2020/11/lotiz-3.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="wp-content/uploads/2020/11/lotiz-3.jpg 800w, wp-content/uploads/2020/11/lotiz-3-300x183.jpg 300w, wp-content/uploads/2020/11/lotiz-3-768x468.jpg 768w" sizes="(max-width: 800px) 100vw, 800px">
+																		<img width="800" height="488" src="assets/images/anasayfa3.jpg" class="attachment-full size-full" alt="" decoding="async" loading="lazy" srcset="assets/images/anasayfa3.jpg" sizes="(max-width: 800px) 100vw, 800px">
 																	</a>
 																</div>
 																<div class="eltdf-iwt-text-holder">
@@ -390,7 +390,7 @@
 											</div>
 										</div>
 									</div>
-									<div data-parallax-bg-image="https://lotipoints.com/wp-content/uploads/2022/10/lotipoints-parallax.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid vc_custom_1665394568531 eltdf-parallax-row-holder" style="background-image: url(wp-content/uploads/2022/10/lotipoints-parallax.jpg)">
+									<div data-parallax-bg-image="assets/images/anasayfa-banner.jpg" data-parallax-bg-speed="1" class="vc_row wpb_row vc_row-fluid vc_custom_1665394568531 eltdf-parallax-row-holder" style="background-image: url(assets/images/anasayfa-banner.jpg)">
 										<div class="wpb_column vc_column_container vc_col-sm-12 vc_col-lg-6 vc_col-md-8">
 											<div class="vc_column-inner">
 												<div class="wpb_wrapper">
@@ -409,6 +409,7 @@
 
 																	<div class="wpb_text_column wpb_content_element ">
 																		<div class="wpb_wrapper">
+																			
 																			<p style="text-align: center;"><span style="color: #ffffff;">The
 																					LotiPoints consists of four crucial
 																					elements; Cuisine &#8211; Design
@@ -432,8 +433,7 @@
 																		<span class="vc_empty_space_inner"></span>
 																	</div>
 																	<div class="vc_btn3-container  wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_btn3-center">
-																		<a style="background-color:#c5b358; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="our-brands/index.php" title="">Read
-																			More</a>
+																		<a style="background-color:#c5b358; color:#ffffff;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-custom" href="hakkimizda.php" title="">Daha Fazlası...</a>
 																	</div>
 																</div>
 															</div>
