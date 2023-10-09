@@ -675,7 +675,7 @@
 		}
 
 		.eltdf-content-inner .eltdf-full-width .eltdf-full-width-inner .eltdf-grid-row .eltdf-page-content-holder .wpb_row .vc_column_container .vc_column-inner .wpb_wrapper .eltdf-section-title-holder .eltdf-st-inner .eltdf-st-title {
-			font-family: 'Lato', sans-serif !important;
+			font-family: auto;
 		}
 
 		.eltdf-wrapper .wpb_wrapper .eltdf-st-title {

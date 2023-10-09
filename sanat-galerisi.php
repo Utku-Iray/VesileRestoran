@@ -243,6 +243,24 @@
                                                                                 <img width="800" height="534" src="assets/images/galeri/f12.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f12.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
                                                                         </div>
                                                                     </div>
+                                                                    <div class="eltdf-ig-image eltdf-item-space ">
+                                                                        <div class="eltdf-ig-image-inner">
+                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f13.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
+                                                                                <img width="800" height="534" src="assets/images/galeri/f13.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f13.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="eltdf-ig-image eltdf-item-space ">
+                                                                        <div class="eltdf-ig-image-inner">
+                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f14.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
+                                                                                <img width="800" height="534" src="assets/images/galeri/f14.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f14.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="eltdf-ig-image eltdf-item-space ">
+                                                                        <div class="eltdf-ig-image-inner">
+                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f15.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
+                                                                                <img width="800" height="534" src="assets/images/galeri/f15.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f15.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
+                                                                        </div>
+                                                                    </div>
                                                                 </div>
                                                             </div>
                                                         </div>
