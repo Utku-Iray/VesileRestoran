@@ -6,7 +6,7 @@
 			<a class="eltdf-close-side-menu" href="#" target="_self">
 				<span aria-hidden="true" class="eltdf-icon-font-elegant icon_close "></span> </a>
 		</div>
-		<div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="assets/images/logo.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="assets/images/logo.png" sizes="(max-width: 340px) 100vw, 340px"></a></div>
+		<div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="assets/images/yatay-logo.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="assets/images/yatay-logo.png" sizes="(max-width: 340px) 100vw, 340px"></a></div>
 		<div id="text-5" class="widget eltdf-sidearea widget_text">
 			<div class="textwidget">
 				<p style="margin: -10px 0 -24px;">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.</p>

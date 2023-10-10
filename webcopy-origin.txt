@@ -1610,8 +1610,8 @@ Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-header-copy.jpg
 File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-header-copy.jpg
 Content Type: image/jpeg
 
-Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-logo.png
-File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-logo.png
+Uri: https://lotipoints.com/wp-content/uploads/2020/11/lotiz-yatay-logo.png
+File Name: C:\Downloaded Web Sites\lotipoints.com\wp-content\uploads\2020\11\lotiz-yatay-logo.png
 Content Type: image/png
 
 Uri: https://lotipoints.com/wp-content/uploads/2020/11/map2-300x120.png

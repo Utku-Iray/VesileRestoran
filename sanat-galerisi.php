@@ -6,7 +6,7 @@
             <a class="eltdf-close-side-menu" href="#" target="_self">
                 <span aria-hidden="true" class="eltdf-icon-font-elegant icon_close "></span> </a>
         </div>
-        <div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="assets/images/logo.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="assets/images/logo.png" sizes="(max-width: 340px) 100vw, 340px"></a></div>
+        <div id="media_image-5" class="widget eltdf-sidearea widget_media_image"><a href="index.php"><img width="340" height="131" src="assets/images/yatay-logo.png" class="image wp-image-4439  attachment-full size-full" alt="" decoding="async" loading="lazy" style="max-width: 100%; height: auto;" srcset="assets/images/yatay-logo.png" sizes="(max-width: 340px) 100vw, 340px"></a></div>
         <div id="text-5" class="widget eltdf-sidearea widget_text">
             <div class="textwidget">
                 <p style="margin: -10px 0 -24px;">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.</p>
@@ -86,8 +86,9 @@
                                                                         <div class="wpb_wrapper">
                                                                             <div class="wpb_gallery_slides wpb_slider_nivo theme-default" data-interval="3">
                                                                                 <div class="nivoSlider">
-                                                                                    <img width="1080" height="721" src="assets/images/kirmiziardickusu2.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu2.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
-                                                                                    <img width="1080" height="721" src="assets/images/kirmiziardickusu1.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu1.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/a1.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/a1.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/a2.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/a2.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/a3.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/a3.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
                                                                                 </div>
                                                                             </div>
                                                                         </div>
@@ -121,8 +122,9 @@
                                                                         <div class="wpb_wrapper">
                                                                             <div class="wpb_gallery_slides wpb_slider_nivo theme-default" data-interval="3">
                                                                                 <div class="nivoSlider">
-                                                                                    <img width="1080" height="721" src="assets/images/kirmiziardickusu3.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu3.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
-                                                                                    <img width="1080" height="721" src="assets/images/kirmiziardickusu4.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/kirmiziardickusu4.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/b1.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/b1.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/b2.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/b2.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
+                                                                                    <img width="1080" height="721" src="assets/images/b3.jpg" class="attachment-full" alt="" decoding="async" loading="lazy" srcset="assets/images/b3.jpg" sizes="(max-width: 1080px) 100vw, 1080px">
 
                                                                                 </div>
                                                                             </div>
