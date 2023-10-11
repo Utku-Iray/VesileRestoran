@@ -68,7 +68,7 @@
                                                                     <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element  wpb_animate_when_almost_visible wpb_fadeIn fadeIn vc_custom_1614697599357">
                                                                         <div class="wpb_wrapper">
-                                                                            <p style="text-align: center; font-size:x-large">Kırmızı Ardıç kuşu sanat galerisi 2005 yılında Özdemir Altan sergisiyle ilk kez sanatseverlerle buluştu.<br>
+                                                                            <p style="text-align: center; font-size:large">Kırmızı Ardıç kuşu sanat galerisi 2005 yılında Özdemir Altan sergisiyle ilk kez sanatseverlerle buluştu.<br>
                                                                                 <br> Türkiye’nin önde gelen sanatçıları ile başladığı sanat yolculuğuna genç sanatçılardan ilham alarak devam etmektedir.
                                                                             </p>
 
@@ -140,7 +140,7 @@
                                                                     <div class="vc_empty_space" style="height: 60px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element  vc_custom_1605532626680">
                                                                         <div class="wpb_wrapper">
-                                                                            <p style="text-align: center;font-size:x-large">Türkiye’deki sanat ortamına coğrafi konumu nedeni ile farklı bir soluk getirmeyi amaçlar. Güncel yaşam içine sanatı yerleştirerek kişiyi düşündürmeyi hedeflemiştir. Açıldığından bu yana birçok kişisel sergiye ev sahipliği yapmanın yanı sıra genç sanatçıları izleyici ile buluşturmanın haklı gururunu yaşamaktadır.</p>
+                                                                            <p style="text-align: center;font-size:large">Türkiye’deki sanat ortamına coğrafi konumu nedeni ile farklı bir soluk getirmeyi amaçlar. Güncel yaşam içine sanatı yerleştirerek kişiyi düşündürmeyi hedeflemiştir. Açıldığından bu yana birçok kişisel sergiye ev sahipliği yapmanın yanı sıra genç sanatçıları izleyici ile buluşturmanın haklı gururunu yaşamaktadır.</p>
 
                                                                         </div>
                                                                     </div>
@@ -153,124 +153,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="eltdf-row-grid-section-wrapper ">
-                                        <div class="eltdf-row-grid-section">
-                                            <div class="vc_row wpb_row vc_row-fluid vc_custom_1605533165478">
-                                                <div class="wpb_column vc_column_container vc_col-sm-12">
-                                                    <div class="vc_column-inner">
-                                                        <div class="wpb_wrapper">
-                                                            <div class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-title-left eltdf-st-normal-space ">
-                                                                <div class="eltdf-st-inner">
-                                                                    <h2 class="eltdf-st-title" style="color: #0a0a0a">
-                                                                        GALERİ </h2>
-                                                                    <div class="eltdf-separator-holder clearfix">
-                                                                        <div class="eltdf-separator"></div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                            <div class="vc_empty_space" style="height: 45px"><span class="vc_empty_space_inner"></span></div>
-                                                            <div class="eltdf-image-gallery  eltdf-ig-masonry-type eltdf-normal-space eltdf-has-shadow eltdf-image-behavior-lightbox">
-                                                                <div class="eltdf-ig-inner eltdf-outer-space eltdf-ig-masonry eltdf-ig-four-columns">
-                                                                    <div class="eltdf-ig-grid-sizer"></div>
-                                                                    <div class="eltdf-ig-grid-gutter"></div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f1.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03989">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f1.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f1.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f2.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f2.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f2.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f3.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f3.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f3.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f4.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f4.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f4.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f5.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f5.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f5.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f6.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f6.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f6.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f7.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f7.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f7.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f8.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f8.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f8.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f9.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f9.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f9.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f10.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f10.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f10.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f11.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f11.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f11.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f12.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f12.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f12.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f13.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f13.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f13.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f14.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f14.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f14.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                    <div class="eltdf-ig-image eltdf-item-space ">
-                                                                        <div class="eltdf-ig-image-inner">
-                                                                            <a itemprop="image" class="eltdf-ig-lightbox" href="assets/images/galeri/f15.jpg" data-rel="prettyPhoto[image_gallery_pretty_photo-715]" title="DSC03983">
-                                                                                <img width="800" height="534" src="assets/images/galeri/f15.jpg" class="attachment-large size-large" alt="" decoding="async" loading="lazy" srcset="assets/images/galeri/f15.jpg" sizes="(max-width: 800px) 100vw, 800px"> </a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
+                               
 
                                 </div>
                             </div>

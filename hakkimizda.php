@@ -88,7 +88,7 @@
                                                                     <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element  vc_custom_1671622136046">
                                                                         <div class="wpb_wrapper">
-                                                                            <p style="text-align: center;">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.
+                                                                            <p style="text-align: center; font-size:large">2005 yılında sanat galerisinin ardından Sayra İnce Muran tarafından küçük bir kafe olarak hayata geçmiştir. Zaman içerisinde misafirleri ile paylaştığı lezzetleriyle çevreci ve yeni geleneksel yaklaşımlarıyla bugünlere gelmiştir. Doğal, sanatsal ve kendine özgü bir mekandır Kırmızı Ardıç Kuşu.
                                                                                 <br><br>
                                                                                 Ressam Sayra İnce Muran, Mimar Levent Muran ve oğulları Ardıç Muran ile birlikte yaşamaya karar verdikleri Alaçatı’da, üretmek ve paylaşmak için oluşturdukları eski bir Alaçatı evini şekillendirerek bugüne getirmişlerdir.
                                                                             </p>
@@ -150,7 +150,7 @@
                                                                     <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element  vc_custom_1614690917309">
                                                                         <div class="wpb_wrapper">
-                                                                            <p>Çok yakında İzmir Bayraklı’da kendine özgü tavrı ve lezzetleriyle sizlere dört mevsimi birlikte yaşamaya hazırlanmaktadır. <br><br>
+                                                                            <p style="font-size:large;">Çok yakında İzmir Bayraklı’da kendine özgü tavrı ve lezzetleriyle sizlere dört mevsimi birlikte yaşamaya hazırlanmaktadır. <br><br>
                                                                                 ‘’Kırmızı Ardıç Kuşu‘’ adının ilham aldığı hikayesi ise şöyle;
                                                                                 <br>Ardıç Kuşu ile Ardıç Ağacı’nın isimlerinin sadece bir benzerlik olduğunu sanıyorsanız, yanılıyorsunuz. Şimdi İdeon’dan ilgili bölümü birlikte okuyalım.
                                                                                 <br> “Dudu’nun uzattığı bakır maşrapasını ağzına dayadı Yorgan Dede ve bin pınarlı İda’nın akıttığı gibi akıttı suyu boğazından aşağıya. Bu sırada Zacharian’ın gözüne yerde duran, üzüm büyüklüğünde ve renginde bir şey çarptı. Eline alıp incelemeye başladı. Üzüme göre biraz daha kırmızıydı. 0 yüzden yerdeki onca şey içinde gözüne çarpmıştı. Büyüklüğü ise iri bir üzüm tanesi kadardı.
@@ -190,7 +190,7 @@
                                                                     <div class="vc_empty_space" style="height: 32px"><span class="vc_empty_space_inner"></span></div>
                                                                     <div class="wpb_text_column wpb_content_element  vc_custom_1670599194311">
                                                                         <div class="wpb_wrapper">
-                                                                            <p>“O bir ardıç ağacı tohumu,” dedi.
+                                                                            <p style="font-size:large;">“O bir ardıç ağacı tohumu,” dedi.
                                                                                 <br> “Bu kadar irili ufaklı taş toprak arasında gözüme çarptığına göre bir anlamı olmalı. Onu kaldığımız binanın önüne ekmemde bir mahsur var mı?” dedi Zacharian.
                                                                                 <br> “Benim için hiç mahsuru yok. Ama onu ekersen sadece toprak altındaki hayvancıkları beslemiş olursun. Filizlenmez…
                                                                                 <br> “Neden filizlenmesin? Bir tohum değil mi sonuçta?”

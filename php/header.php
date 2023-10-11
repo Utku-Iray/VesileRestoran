@@ -34,6 +34,9 @@
                                     <a href="sanat-galerisi.php" class=""><span class="item_outer"><span class="item_text">Sanat Galerisi</span></span></a>
                                 </li>
                                 <li id="nav-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page  narrow">
+                                    <a href="galeri.php" class=""><span class="item_outer"><span class="item_text">Galeri</span></span></a>
+                                </li>
+                                <li id="nav-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page  narrow">
                                     <a href="pdf/menu.pdf" target="_blank" class=""><span class="item_outer"><span class="item_text">MENÜ</span></span></a>
                                 </li>
                               
@@ -111,6 +114,7 @@
                     </li>
                     <li id="mobile-menu-item-4870" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="hakkimizda.php" class=""><span>Hakkımızda</span></a></li>
                     <li id="mobile-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="sanat-galerisi.php" class=""><span>Sanat Galerisi</span></a></li>
+                    <li id="mobile-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="galeri.php" class=""><span>Galeri</span></a></li>
                     <li id="mobile-menu-item-4869" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="pdf/menu.pdf" target="_blank" class=""><span>Menu</span></a></li>
                     <li id="mobile-menu-item-4871" class="menu-item menu-item-type-post_type menu-item-object-page "><a href="iletisim.php" class=""><span>İletişim</span></a></li>
                 </ul>
